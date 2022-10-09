@@ -1,2 +1,2 @@
-# Deliverable
-Repository per la consegna dei deliverable del progetto
+# Deliverables
+Repository per la consegna dei deliverables del progetto
